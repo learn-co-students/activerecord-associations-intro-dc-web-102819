@@ -297,7 +297,7 @@ Let's make a few new songs:
 ```bash
 [1]pry(main)> hello = Song.new(name: "Hello")
 => #<Song:0x007fc75a8de3d8 id: nil, name: "Hello", artist_id: nil, genre_id: nil>
-[2]pry(main)> hotline_bling = Song.new(name: "Hotline Bling")
+[2]pry(main)> hotline_bling =  Song.new(name: "Hotline Bling")
 => #<Song:0x007fc75b9f3a38 id: nil, name: "Hotline Bling", artist_id: nil, genre_id: nil>
 ```
 
